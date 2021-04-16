@@ -1,4 +1,4 @@
-# Download API *pro!*
+Download CDN *for qixyu.github.io*
 存放qixyu.github.io文件的云端硬盘
 
 (c) 2020-2021 Soul-Lightning rod Studios
