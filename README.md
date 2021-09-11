@@ -1,4 +1,4 @@
-# Download CDN2 *for qixyu.github.io*
+# Download CDN2 *for idhaname's website*
 
 存放idhaname.github.io文件的云端硬盘
 
