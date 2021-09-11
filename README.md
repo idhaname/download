@@ -8,7 +8,7 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/idhaname/download?style=social)    ![GitHub stars](https://img.shields.io/github/stars/idhaname/download?style=social)    ![GitHub watchers](https://img.shields.io/github/watchers/idhaname/download?style=social)
 
-==========================================================================================
+===========================================================================
 
 注：4个下载节点的所有问题请反馈到这里来（开一个issue）。无关紧要的东西请发在讨论（discussions）里。
 
