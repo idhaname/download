@@ -12,11 +12,11 @@
 
 注：4个下载节点的所有问题请反馈到这里来（开一个issue）。无关紧要的东西请发在讨论（discussions）里。
 
-节点1：soulblaze.unaux.com
+节点1（自建服务器，通用）：https://soulblaze.unaux.com （每日请求上限50000）
 
-节点2：idhaname.github.io/download
+节点2（GitHub，国外）：https://idhaname.github.io/download
 
-节点3：（在建）
+节点3（微云网盘，国内）：https://share.weiyun.com/6UvaTtn2
 
-节点4：（在建）
+节点4（迅雷云盘，国内）：（在建）
 
