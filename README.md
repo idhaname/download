@@ -1,4 +1,4 @@
-# Download CDN2 *for idhaname's website*
+# Download website for *idhaname's website*
 
 存放idhaname.github.io文件的云端硬盘
 
@@ -18,5 +18,5 @@
 
 节点3（微云网盘，国内）：https://share.weiyun.com/6UvaTtn2
 
-节点4（迅雷云盘，国内）：（在建）
+节点4（迅雷云盘，国内）：https://pan.xunlei.com/s/VMl3jvCbsomDtoGQo-4VstPzA1 （提取码：nens）
 
