@@ -1,4 +1,4 @@
-# Download website for *idhaname's website*
+# image download for *Soul-Blaze rod Studios' website*
 
 存放灵魂-烈焰之杖工作室下属文件的图床
 
